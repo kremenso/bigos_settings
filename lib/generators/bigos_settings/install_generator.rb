@@ -8,6 +8,10 @@ module BigosSettings
       def copy_initializer
         template "bigos_settings.rb", "config/initializers/bigos_settings.rb"
       end
+
+      def include_routes
+        route 'mount BigosSettings::Engine => "/bigos_settings"'
+      end
       
     end
   end
