@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9474a717-12e4-4ce3-8c41-43fd9c367595" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/bigos_settings/controllers/helpers.rb" afterPath="$PROJECT_DIR$/lib/bigos_settings/controllers/helpers.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/bigos_settings/module/admin/_widget.html.erb" afterPath="$PROJECT_DIR$/app/views/bigos_settings/module/admin/_widget.html.erb" />
     </list>
     <ignored path="bigos_settings.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -75,19 +76,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="helpers.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="helpers.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/bigos_settings/controllers/helpers.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="39" selection-start="175" selection-end="175" vertical-scroll-proportion="0.15177065">
+            <state line="6" column="13" selection-start="149" selection-end="179" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_widget.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="_widget.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/bigos_settings/module/admin/_widget.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="2" selection-start="49" selection-end="49" vertical-scroll-proportion="-1.25">
+            <state line="10" column="64" selection-start="418" selection-end="418" vertical-scroll-proportion="0.26362038">
               <folding />
             </state>
           </provider>
@@ -119,14 +120,14 @@
         <option value="$PROJECT_DIR$/lib/generators/bigos_settings/install_generator.rb" />
         <option value="$PROJECT_DIR$/test/dummy/config/initializers/bigos_settings.rb" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/app/views/bigos_settings/module/admin/_widget.html.erb" />
         <option value="$PROJECT_DIR$/lib/bigos_settings/controllers/helpers.rb" />
+        <option value="$PROJECT_DIR$/app/views/bigos_settings/module/admin/_widget.html.erb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="24" />
+    <option name="y" value="-744" />
     <option name="width" value="1301" />
     <option name="height" value="744" />
   </component>
@@ -156,8 +157,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="RailsProjectView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -294,6 +293,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -541,16 +542,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1301" height="744" extended-state="6" />
+    <frame x="65" y="-744" width="1301" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27098322" sideWeight="0.8312693" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27577937" sideWeight="0.82198143" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27098322" sideWeight="0.15789473" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27577937" sideWeight="0.16718267" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -701,16 +702,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/bigos_settings/module/admin/_widget.html.erb">
+    <entry file="file://$PROJECT_DIR$/lib/bigos_settings/controllers/helpers.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="2" selection-start="49" selection-end="49" vertical-scroll-proportion="-1.25">
+        <state line="6" column="13" selection-start="149" selection-end="179" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/bigos_settings/controllers/helpers.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/bigos_settings/module/admin/_widget.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="39" selection-start="175" selection-end="175" vertical-scroll-proportion="0.15177065">
+        <state line="10" column="64" selection-start="418" selection-end="418" vertical-scroll-proportion="0.26362038">
           <folding />
         </state>
       </provider>
