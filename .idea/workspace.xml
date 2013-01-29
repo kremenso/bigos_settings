@@ -87,7 +87,7 @@
       <file leaf-file-name="_widget.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/bigos_settings/module/admin/_widget.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="75" selection-start="429" selection-end="429" vertical-scroll-proportion="0.26362038">
+            <state line="10" column="57" selection-start="411" selection-end="411" vertical-scroll-proportion="0.26362038">
               <folding />
             </state>
           </provider>
@@ -710,7 +710,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/bigos_settings/module/admin/_widget.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="75" selection-start="429" selection-end="429" vertical-scroll-proportion="0.26362038">
+        <state line="10" column="57" selection-start="411" selection-end="411" vertical-scroll-proportion="0.26362038">
           <folding />
         </state>
       </provider>

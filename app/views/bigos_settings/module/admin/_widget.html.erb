@@ -8,7 +8,7 @@
           <% settings = BigosSettings::Settings.all(m.name) %>
           <% settings.each do |setting| %>
               <%= form_tag  '/bigos_settings/admin/settings', :remote => true do %>
-                  <%= label_tag (setting.first.to_s.gsub! "#{m.name}.", "") %>
+                  <%= label_tag (setting.first.to_s.clone.gsub! "#{m.name}.", "") %>
                   <%= text_field_tag "setting[#{setting.first}]", setting.second %>
                   <%= submit_tag %>
               <% end %>
