@@ -4,7 +4,7 @@ module BigosSettings
       extend ActiveSupport::Concern
 
       def bigos_settings_admin_widget
-        @im = BigosApp::InstalledModules.all
+        @im = BigosApp::InstalledModule.all
         render :partial=>"bigos_settings/module/admin/widget", :locals=>{:im => @im}
       end
     end

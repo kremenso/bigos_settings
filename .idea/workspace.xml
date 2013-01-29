@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9474a717-12e4-4ce3-8c41-43fd9c367595" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/bigos_settings/module/admin/_widget.html.erb" afterPath="$PROJECT_DIR$/app/views/bigos_settings/module/admin/_widget.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/bigos_settings/controllers/helpers.rb" afterPath="$PROJECT_DIR$/lib/bigos_settings/controllers/helpers.rb" />
     </list>
     <ignored path="bigos_settings.iws" />
@@ -77,19 +75,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="helpers.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="helpers.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/bigos_settings/controllers/helpers.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="99" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
+            <state line="6" column="39" selection-start="175" selection-end="175" vertical-scroll-proportion="0.15177065">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_widget.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="_widget.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/bigos_settings/module/admin/_widget.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="2" selection-start="49" selection-end="49" vertical-scroll-proportion="0.05272408">
+            <state line="2" column="2" selection-start="49" selection-end="49" vertical-scroll-proportion="-1.25">
               <folding />
             </state>
           </provider>
@@ -121,8 +119,8 @@
         <option value="$PROJECT_DIR$/lib/generators/bigos_settings/install_generator.rb" />
         <option value="$PROJECT_DIR$/test/dummy/config/initializers/bigos_settings.rb" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/lib/bigos_settings/controllers/helpers.rb" />
         <option value="$PROJECT_DIR$/app/views/bigos_settings/module/admin/_widget.html.erb" />
+        <option value="$PROJECT_DIR$/lib/bigos_settings/controllers/helpers.rb" />
       </list>
     </option>
   </component>
@@ -703,16 +701,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/bigos_settings/controllers/helpers.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/bigos_settings/module/admin/_widget.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="99" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0">
+        <state line="2" column="2" selection-start="49" selection-end="49" vertical-scroll-proportion="-1.25">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/bigos_settings/module/admin/_widget.html.erb">
+    <entry file="file://$PROJECT_DIR$/lib/bigos_settings/controllers/helpers.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="2" selection-start="49" selection-end="49" vertical-scroll-proportion="0.05272408">
+        <state line="6" column="39" selection-start="175" selection-end="175" vertical-scroll-proportion="0.15177065">
           <folding />
         </state>
       </provider>
