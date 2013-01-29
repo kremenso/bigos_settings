@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9474a717-12e4-4ce3-8c41-43fd9c367595" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/bigos_settings/module/admin/_widget.html.erb" afterPath="$PROJECT_DIR$/app/views/bigos_settings/module/admin/_widget.html.erb" />
     </list>
     <ignored path="bigos_settings.iws" />
@@ -88,7 +87,7 @@
       <file leaf-file-name="_widget.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/bigos_settings/module/admin/_widget.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="64" selection-start="418" selection-end="418" vertical-scroll-proportion="0.26362038">
+            <state line="10" column="75" selection-start="429" selection-end="429" vertical-scroll-proportion="0.26362038">
               <folding />
             </state>
           </provider>
@@ -711,7 +710,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/bigos_settings/module/admin/_widget.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="64" selection-start="418" selection-end="418" vertical-scroll-proportion="0.26362038">
+        <state line="10" column="75" selection-start="429" selection-end="429" vertical-scroll-proportion="0.26362038">
           <folding />
         </state>
       </provider>
